@@ -1,0 +1,14 @@
+div{
+    text-align: center;
+
+}
+
+.hijo {
+    margin: 0 auto;
+    justify-content: center;
+  }
+
+.contenedor {
+    display: flex;
+    justify-content: center;
+}
