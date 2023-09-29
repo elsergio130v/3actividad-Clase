@@ -1,0 +1,3 @@
+esta aplicacion consta de una cuenta atras y una verificacion de la estacion en
+la que nos encontramos, tambien si llegamos al final de la cuenta tenemos 
+una accion.
